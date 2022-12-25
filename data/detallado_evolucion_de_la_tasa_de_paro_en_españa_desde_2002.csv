@@ -1,5 +1,4 @@
-Trimestre,Activos,Ocupados,Parados,Tasa de,Tasa
-,,,,actividad (en %),de paro (en %)
+Trimestre,Activos,Ocupados,Parados,Tasa de actividad (en %),Tasa de paro (en %)
 3T 2022,"23.525,9","20.545,7","2.980,2","58,86","12,67"
 2T 2022,"23.387,4","20.468,0","2.919,4","58,71","12,48"
 1T 2022,"23.259,4","20.084,7","3.174,7","58,50","13,65"
@@ -87,4 +86,3 @@ Trimestre,Activos,Ocupados,Parados,Tasa de,Tasa
 3T 2001,"18.164,0","16.294,3","1.869,7","53,22","10,29"
 2T 2001,"17.932,1","16.076,3","1.855,8","52,73","10,35"
 1T 2001,"17.814,7","15.866,3","1.948,3","52,57","10,94"
-,,,,,
